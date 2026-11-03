@@ -10,3 +10,6 @@ Collector: https://zpciaferiufetxstgpkp.supabase.co/functions/v1/track-marketing
 Owner email: nprimefit@gmail.com
 
 Before testing dashboard OTP, configure Supabase Auth Site URL and Redirect URLs to the deployed dashboard URL. The owner email must exist as an Auth user. No service-role key is included in these files.
+
+
+Cloudflare Pages deployment verification trigger: 2026-11-03.
